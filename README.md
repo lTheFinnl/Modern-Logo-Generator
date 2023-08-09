@@ -5,6 +5,10 @@ If you'd like to try it out yourself, it's easy. Just download the .zip file and
 
 https://fonts.google.com/ is a good place to find some more fonts if you are interested.
 
+Images can be easily saved to the "/saved_logos/" folder within the script directory as well.
+
+The script could potentially produce inapproproate results, and I have not put any safeguards into place concerning this. If you are worried about seeing a certain word with four letters and nonconsecutive vowels, though chances are small, I cannot guarantee that your worst nightmare won't become a reality!
+
 You can use, modify, and distribute this in any way you like if you feel so inclined...
 
 Here are some examples of the program's generated logos:
@@ -18,5 +22,3 @@ Here are some examples of the program's generated logos:
 ![idja](https://github.com/lTheFinnl/Modern-Logo-Generator/assets/92557440/3f91334d-5f08-4cae-83dc-895a07a6115f)
 
 ![ubme](https://github.com/lTheFinnl/Modern-Logo-Generator/assets/92557440/a898aaed-73c9-40e9-bbf2-2237d83a61fc)
-
-The script could potentially produce inapproproate results, and I have not put any safeguards into place concerning this. If you are worried about seeing a certain word with four letters and nonconsecutive vowels, though chances are small, I cannot guarantee that your worst nightmare won't become a reality!
