@@ -7,7 +7,7 @@ https://fonts.google.com/ is a good place to find some more fonts if you are int
 
 Images can be easily saved to the "/saved_logos/" folder within the script directory as well.
 
-The script could potentially produce inapproproate results, and I have not put any safeguards into place concerning this. If you are worried about seeing a certain word with four letters and nonconsecutive vowels, though chances are small, I cannot guarantee that your worst nightmare won't become a reality!
+The script could potentially produce inappropriate results, and I have not put any safeguards into place concerning this. If you are worried about seeing a certain word with four letters and nonconsecutive vowels, though chances are small, I cannot guarantee that your worst nightmare won't become a reality!
 
 You can use, modify, and distribute this in any way you like if you feel so inclined...
 
